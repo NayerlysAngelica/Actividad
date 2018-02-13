@@ -1,0 +1,9 @@
+Una base de datos para un campeonato de futbol de barrio se requiere los siguientes datos:
+-para el campeonato: cancha, inscripcion, numero de equipos,  arbitro (minimo 3), fecha de partidos,
+ numero de partidos, clasificacion a octavos de finales ( cuartas de finales, semifinal y final).
+- para cada equipo: nombre del equipo, entrenador, personas a jugar (minimo 11), uniformes (color unico), plata del arbitraje.
+- para cada jugador: nombre, identificacion, direccion, telefono, posicion de juego.
+- para cada entrenador: nombre, identificacion, direccion, telefono, tabla de entrenamiento.
+- para cada arbitro: nombre, identificacion, direccion, telefono, pito, tarjetas (amarillas y rojas), uniforme.
+- para cada partido: fecha, lugar, equipos a enfretarse.
+- para cada cancha: disponibilidad, dos arquerias, buen estado de la cancha.  
